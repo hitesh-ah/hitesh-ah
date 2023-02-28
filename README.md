@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitesh-ah
 - 👀 I’m interested in Signal Processing
-- 🌱 I’m currently a M.tech Student at GEC, Barton Hill
+- 🌱 Find my work profile at https://github.com/hiteshah185
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hiteshah@protonmail.com
 
