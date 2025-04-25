@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hitesh-ah
 - 👀 I’m interested in Signal Processing
-- 🌱 Find my work profile at https://github.com/hiteshah185
+- 🌱 Find my work profiles at https://github.com/hiteshah185
+https://github.com/hxa135
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hiteshah@protonmail.com
 
