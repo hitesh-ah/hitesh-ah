@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @hitesh-ah
 - 👀 I’m interested in Signal Processing
-- 🌱 Find my work profiles at https://github.com/hiteshah185
+- 🌱 Find my work profiles at 
+https://github.com/hiteshah185
 https://github.com/hxa135
+https://me.developers.google.com/u/hiteshah-efx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://sites.google.com/view/hiteshah/PersonalInfo
 
